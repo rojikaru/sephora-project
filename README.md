@@ -20,7 +20,7 @@ This project is an online perfumery store built with ASP.NET Core REST API backe
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download)
 - [Node.js](https://nodejs.org/) (v14 or later)
-- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (or another compatible database)
+- [PostgreSQL](https://www.postgresql.org/) (or another compatible database)
 
 ## Getting Started
 
